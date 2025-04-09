@@ -241,10 +241,10 @@ def computer_turn():
 
     # Call the minimax algorithm.
 
-    # Set the cell the computer chooses to an O.
+    # Set the cell the computer chooses to an O if the choice is valid.
+    if choice:
+        pass
 
-    # Remove once you add your implementation.
-    pass
 
 ### Used to run the game, do not modify past this line! ###
 
