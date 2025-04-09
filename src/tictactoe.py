@@ -136,6 +136,8 @@ def score(_board):
 
     Parameters:
         _board (list): The board that's being scored.
+    Returns:
+        int: The score of the board.
     """
     # Task 4.2
 
