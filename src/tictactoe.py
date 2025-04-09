@@ -125,7 +125,7 @@ def is_game_over(_board):
 
     # If there is no winner but all cells are filled, return 'T' for a tie..
 
-    # Otherwise, no one has won.
+    # Otherwise, the game is not over yet!
     return None
 
 
