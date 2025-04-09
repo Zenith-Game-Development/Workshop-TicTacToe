@@ -24,11 +24,10 @@ font = pygame.font.SysFont('PixelBasic', 32)
 
 board = [[None] * 3 for _ in range(3)]
 choice = None
-winner = None
 
 
 def reset():
-    """Resets the board, choice, and winner to their initial states."""
+    """Resets the board and choice to their initial states."""
     # Task 1:
 
     # Declare global variables.
