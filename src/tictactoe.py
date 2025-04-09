@@ -131,7 +131,7 @@ def is_game_over(_board):
 
 def score(_board):
     """
-    Returns the score of the given board: -10 if the player wins, 10 if the computer wins, and
+    Returns the score of the given board: -1 if the player wins, 1 if the computer wins, and
     0 if it's a tie.
 
     Parameters:
