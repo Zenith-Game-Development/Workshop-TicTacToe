@@ -90,7 +90,7 @@ def user_click():
         row, column = min((y - MARGIN) // GRID_SIZE, 2), min((x - MARGIN) // GRID_SIZE, 2)
 
         # Check if that cell is empty
-        
+        if True:
             # Set the cell to an X.
 
             # If the game is not over, tell the computer to take its turn.
